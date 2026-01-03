@@ -4,8 +4,8 @@ Engineer & Product Creator focused on building practical AI and automation tools
 
 ### 🚀 Featured Projects
 
-- **[ChromePilot](https://github.com/abuzar0013/chromepilot)**: A lightweight Chrome extension transforming browsers into agentic assistants with voice interaction and tool integrations.
-- **[House of Wisdom](https://houseofwisdom.ai)**: An ed-tech initiative simplifying STEM/STEAM concepts through visual and interactive learning.
+- **[ChromePilot](https://chromepilot.org)**: A lightweight Chrome extension transforming browsers into agentic assistants with voice interaction and tool integrations.
+- **[House of Wisdom](https://houseofwisdom.online)**: An ed-tech initiative simplifying STEM/STEAM concepts through visual and interactive learning.
 
 ### 🛠️ What I'm Working On
 - **AI Agents**: Developing intelligent workflows that automate repetitive tasks.
